@@ -6,7 +6,7 @@
 import math
 
 def main():
-    print("this program finds the real solutions to a quadratic")
+    print("this program finds the real solutions to a quadraticcc")
     print ()
 
     a = float(input("Enter coefficient a: "))
